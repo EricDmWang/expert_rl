@@ -1,0 +1,3 @@
+run 9-13, corresponding seeds from 1 to 5 with no expert guidance.
+run 49, 51, 52: corresponding to 250, 500, 1500 episodes trained expert guided
+run 64: llm augmentation

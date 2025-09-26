@@ -1,0 +1,12 @@
+# Ignore all results folders
+results/
+
+# Ignore specific folder
+experiment_results/
+
+# Optional common extras (e.g. for Python)
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
