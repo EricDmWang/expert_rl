@@ -4,6 +4,9 @@ results/
 # Ignore specific folder
 experiment_results/
 
+lbf_llm/
+
+
 # Optional common extras (e.g. for Python)
 __pycache__/
 *.pyc
